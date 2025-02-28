@@ -18,32 +18,9 @@ body{
     margin-right:200px;
     background-color: white;
     margin-bottom: 50px;
-    margin-bottom: 100px;
-    
+    margin-bottom: 100px;    
 }
-section{
-  border: 20px black;
-  margin-right: 100px;
-}
-div{
-    display:inline-flex;
-    
-}
-.sec1{
-    border : 2px solid;
-    padding :2px 10px 2px 10px;
-    margin-right: 100px;
-    
-}
-.sec2{
-    border : 2px solid;
-    
-    
-}
-.sec3{
-    border : 2px solid;
 
-}
 footer{
 
     border : 2px solid#79e968  ;
