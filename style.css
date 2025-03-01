@@ -1,0 +1,63 @@
+header{
+    font-style: italic ;
+    font-size: xx-large;
+    border: 20px double #050505 ;
+    padding: 20px; background-color: rgb( 247, 241, 237  );
+    margin-bottom: 70px;  
+}
+body{
+    background-color: white;
+    background-image: url(https://scontent.fdvo2-1.fna.fbcdn.net/v/t1.15752-9/476416972_1110146804242739_4202306793347978029_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=9f807c&_nc_eui2=AeF22Rj2VxpADVWHfkJJZxQvxRatEZllr0zFFq0RmWWvTJh0d0x8LxctGQNzUg_37Z5og4m0hJlwVYSrt_PsWfpH&_nc_ohc=vDFqddTmwxEQ7kNvgEgtB0n&_nc_oc=AdihTlNEy0efHsah_kag48gKkzuWrYPuq-lwLbWtLurG4pvesn4LAXeIPf0a6XVu8OrXlbAZNhu-CGfraNJPlBM7&_nc_zt=23&_nc_ht=scontent.fdvo2-1.fna&oh=03_Q7cD1gGQ8CJ_WoITSbckFEhqisZEt3UMpHTcIdG35xLjB5hjWA&oe=67D74493);
+.pic{
+    border: solid black;
+    margin-left: 120px;
+    margin-right:200px;
+    background-color: white;
+    margin-bottom: 50px;
+    margin-bottom: 100px;   
+}
+
+}
+div{
+    display:inline-flex;   
+}
+.sec1{
+    
+    padding :2px 10px 2px 10px;
+    margin-right: 100px;
+}
+.sec2{
+
+    padding :2px 10px 2px 10px;
+    margin-right: 100px;}
+.sec3{
+    padding :2px 10px 2px 10px;
+    margin-right: 100px;}
+footer{
+
+    border : 2px solid#79e968  ;
+    background-color: black;
+    font-size: xx-large;
+    color: rgb(77, 212, 106);
+    display: inline;
+    padding: auto;
+}
+
+main {
+    display: flex; 
+    margin-right: 100px;
+    margin-left: 100px;
+    
+}
+button{
+    border-radius: 15px;
+    padding: 15px;
+    margin-left: 100px;
+}
+p{
+    color: white;
+    
+}
+h2{
+    color: white;
+}
